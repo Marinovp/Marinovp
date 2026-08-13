@@ -4,8 +4,6 @@ Hi ! My name is Marino
 Data Engineer & Analytics
 -------------------------
 
-I've been wokrin g
-
 * 🌍  I'm based in FL
 * 🧠  I'm currently learning anything related to Data
 * 👥  I'm looking to collaborate on AWS, Azure, GCP
